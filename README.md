@@ -7,7 +7,7 @@ Pulse-AI is an AI-powered assistant application built using **Spring Boot**, **G
 
 ## Application Screenshots
 
-| Screenshot | Description |
+| Preview | Description |
 |:-----------|:-------------|
 | <img src="https://github.com/user-attachments/assets/af0e11df-82b6-48f6-817c-d2cb344d3d0b" alt="AI Agent Interface" width="300"/> | **AI Agent Verbal Conversation Interface** — This screen shows the AI agent interacting with users through continuous voice conversations. |
 | <img src="https://github.com/user-attachments/assets/861a78d2-d396-4939-a4ea-1a3f1ca17e29" alt="React Frontend Listening State" width="300"/> | **Listening State (Frontend UI)** — The AI enters an active listening state, indicated by a pulsing animation, where it captures and understands the user’s spoken input in real time. |
